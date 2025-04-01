@@ -17,7 +17,7 @@ Caso queira visualizar os projetos diretamente no navegador, você pode:
 
 1. Clonar este repositório:  
 ```
-git clone https://github.com/seu-usuario/web-dev-essentials.git
+git clone https://github.com/Mateus-Sebastiao/web-dev-essentials.git
 ```
 
 2. Acessar a pasta de um projeto e abrir o index.html no navegador.
