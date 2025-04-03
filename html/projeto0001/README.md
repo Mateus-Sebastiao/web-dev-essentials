@@ -1,4 +1,4 @@
-# Este é o meu objetivo com esse projeto
+# Meu objetivo com esse projeto
 
 Este projeto foi a prática de um conceito que estava estudando sobre **Exploração visual e elementos interativos** dentro dos fundamentos de HTML.
 
